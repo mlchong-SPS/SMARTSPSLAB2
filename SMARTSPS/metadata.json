@@ -1,0 +1,6 @@
+{
+  "name": "Science Process Skills Gamification",
+  "description": "An interactive, multi-lingual gamified learning platform covering the 6 core Science Process Skills (SPS) with levels, badges, teacher analytics, sound effects, and interactive simulations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
